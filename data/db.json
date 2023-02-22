@@ -1,0 +1,43 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Natália de Araujo Nogueira",
+      "cpf": "311.269.838-02",
+      "rg": "44.243.962-30",
+      "job": "lawyer",
+      "marital_status": "single",
+      "address": "Rua Orquidea, 120",
+      "district": "Alpes do Bom Jesus",
+      "city": "Bom Jesus dos Perdões",
+      "state": "São Paulo",
+      "zip_code": "02402-50"
+    },
+    {
+      "id": 2,
+      "name": "Natália de Araujo Nogueira",
+      "cpf": "311.269.838-02",
+      "rg": "44.243.962-30",
+      "job": "lawyer",
+      "marital_status": "single",
+      "address": "Rua Orquidea, 120",
+      "district": "Alpes do Bom Jesus",
+      "city": "Bom Jesus dos Perdões",
+      "state": "São Paulo",
+      "zip_code": "02402-50"
+    },
+    {
+      "id": 3,
+      "name": "Natália de Araujo Nogueira",
+      "cpf": "311.269.838-02",
+      "rg": "44.243.962-30",
+      "job": "lawyer",
+      "marital_status": "single",
+      "address": "Rua Orquidea, 120",
+      "district": "Alpes do Bom Jesus",
+      "city": "Bom Jesus dos Perdões",
+      "state": "São Paulo",
+      "zip_code": "02402-50"
+    }
+  ]
+}
